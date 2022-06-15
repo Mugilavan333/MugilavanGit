@@ -33,5 +33,8 @@ public class FindBy1 extends BaseClass {
 		public WebElement getBtnLogin() {
 			return btnLogin;
 		}
+		private void userpassword() {
+			System.out.println("userpassword");
+		}
 
 } 
